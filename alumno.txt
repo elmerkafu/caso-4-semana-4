@@ -1,0 +1,1 @@
+DOCENTE: <ffr>,DNI: <343>,EDAD: <34>,MAX NOTA: <4>,MIN NOTA: <1>,PROMEDIO: <2.5> 

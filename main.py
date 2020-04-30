@@ -20,7 +20,7 @@ if numero == 1:
     archivo.agregar_profesor(persona)
     archivo.mostrar_archivo()
 
-else:
+elif numero == 0:
 
     print(" *************** ALUMNO *******************")
     nombre = input(print("INGRESE SU NOMBRE COMPLETO:::"))
@@ -55,3 +55,6 @@ else:
     archivo = Archivo("alumno.txt")
     archivo.agregar_alumno(persona)
     archivo.mostrar_archivo()
+
+else:
+    print("INGRESO UN NUMERO INCORRECTO")
